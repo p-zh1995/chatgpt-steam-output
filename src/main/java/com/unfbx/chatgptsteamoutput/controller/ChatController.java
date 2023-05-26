@@ -58,7 +58,7 @@ public class ChatController {
     }
 
     /**
-     * 关闭连接
+     * 关闭连接2
      *
      * @param headers
      */
